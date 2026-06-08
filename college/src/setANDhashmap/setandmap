@@ -1,0 +1,3 @@
+union
+set<int> uni;
+set_union(A.begin() , A.end(),B.begin(),B.end(),inserter(uni
